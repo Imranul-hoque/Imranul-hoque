@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQF0eUnEBE3KQA/profile-displaybackgroundimage-shrink_350_1400/0/1704685285404?e=1710979200&v=beta&t=HpjPgIPe-GUIZtNPm1dU_V_fyQJ8nmUk_sRVFLY5q2I)]
+![MasterHead](https://media.licdn.com/dms/image/D5616AQF0eUnEBE3KQA/profile-displaybackgroundimage-shrink_350_1400/0/1704685285404?e=1710979200&v=beta&t=HpjPgIPe-GUIZtNPm1dU_V_fyQJ8nmUk_sRVFLY5q2I)
 
 <h1 align="center">Hi 👋, I'm Imranul hoque</h1>
 <h3 align="center">A passionate full stack developer from bangladesh</h3>
@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranul-hoque&label=Profile%20views&color=0e75b6&style=flat" alt="imranul-hoque" /> </p>
 
 
-(img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/CKI21v0kbp52ioPzOINSUh87LRkMTrN2Nv-8PN8E5Ic/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif")
+[Sample image](https://imgs.search.brave.com/CKI21v0kbp52ioPzOINSUh87LRkMTrN2Nv-8PN8E5Ic/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranul-hoque" alt="imranul-hoque" /></a> </p>
 
