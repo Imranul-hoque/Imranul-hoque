@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQF0eUnEBE3KQA/profile-displaybackgroundimage-shrink_350_1400/0/1704685285404?e=1710979200&v=beta&t=HpjPgIPe-GUIZtNPm1dU_V_fyQJ8nmUk_sRVFLY5q2I)
-
 <h1 align="center">Hi 👋, I'm Imranul hoque</h1>
 <h3 align="center">A passionate full stack developer from bangladesh</h3>
 
