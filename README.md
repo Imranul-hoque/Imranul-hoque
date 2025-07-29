@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://source.unsplash.com/1600x400/?technology,programming,code" alt="banner" />
+  <img src="https://source.unsplash.com/1600x400/?technology,programming,code](https://imgs.search.brave.com/3sWjYMAjzxdbil4tSjstLhXmOu4VG-HukqLV5gjyHyE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvaGFwcHktcHJv/Z3JhbW1lcnMtZGF5/LWJhbm5lci1tb2Rl/cm4tc3R5bGVfNTQx/MTcwLTMyMTcuanBn/P3NlbXQ9YWlzX2h5/YnJpZCZ3PTc0MA" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Imranul Hoque</h1>
