@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://source.unsplash.com/1600x400/?technology,programming,code](https://imgs.search.brave.com/3sWjYMAjzxdbil4tSjstLhXmOu4VG-HukqLV5gjyHyE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvaGFwcHktcHJv/Z3JhbW1lcnMtZGF5/LWJhbm5lci1tb2Rl/cm4tc3R5bGVfNTQx/MTcwLTMyMTcuanBn/P3NlbXQ9YWlzX2h5/YnJpZCZ3PTc0MA" alt="banner" />
+  <img src="https://imgs.search.brave.com/zjesfKF6MMNq01Z8ACXmXhhSqMU161Wvijg8yMY3efo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi93ZWIt/dGVjaG5vbG9neS13/ZWJzaXRlLWRlc2ln/bi13ZWItcHJvZ3Jh/bW1pbmctYmFubmVy/LWNvbG9yZnVsLXBs/ZXh1cy1kZXNpZ24t/c29mdHdhcmUtdGVj/aG5vbG9neS12ZWN0/b3ItaWxsdXN0cmF0/aW9uLTE2NjQ5ODU4/Ni5qcGc" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Imranul Hoque</h1>
